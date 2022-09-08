@@ -1,4 +1,4 @@
-# Game-Development-Learning-Path-and-Resources
+# MLSC BSIOTR - Game development Learning path & Best resources
 
 
 ## Introduction
